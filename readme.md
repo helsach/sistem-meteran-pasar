@@ -25,7 +25,7 @@ Si-Maru adalah aplikasi berbasis web yang dirancang khusus untuk mempermudah pen
 ## 🚀 Cara Menjalankan Project
 
 ### 1. Persiapan Database
-- Buat database baru bernama `sistem_meteran` di MySQL/Laragon kamu.
+- Buat database baru bernama `db_listrik_pasar` di MySQL/Laragon kamu.
 
 ### 2. Konfigurasi Backend
 ```bash
